@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Alexander Curtis 👋  
 
-<!--
-**qexa/qexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Automation Architect | IoT & Cybersecurity Expert**  
+Driving Business Transformation with Advanced Technologies  
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+- 💻 Founder of [Qexa Technology](https://qexa.com)  
+- 🔒 Experienced in IoT, Cybersecurity, and AI Automation  
+- 📍 Based in Nashville, TN  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Current Projects  
+- 🛡️ PiSOC – Raspberry Pi SOC lab for detection & monitoring  
+- 🔎 Threat Hunting Labs with KQL & Defender  
+- ☁️ Azure Security & Honeypots  
+
+### 🔹 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/alexanderscurtis)  
+- [Twitter](https://twitter.com/alexandercurtis)  
+- 🌐 [qexa.com](https://qexa.com)
