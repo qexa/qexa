@@ -13,6 +13,7 @@ Driving digital transformation by blending **AI**, **automation**, and **cyberse
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20S.%20Curtis-blue?logo=linkedin)](https://www.linkedin.com/in/alexanderscurtis)
 [![Twitter](https://img.shields.io/badge/Twitter-@alexandercurtis-blue?logo=twitter)](https://x.com/alexandercurtis)
 [![YouTube](https://img.shields.io/badge/YouTube-@alexanderscurtis-red?logo=youtube)](https://www.youtube.com/@alexanderscurtis)
+[![Website](https://img.shields.io/badge/Website-alexandercurtis.com-blue?logo=google-chrome)]([https://qexa.com](https://alexandercurtis.com/))
 
 
 ---
