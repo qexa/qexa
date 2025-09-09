@@ -18,8 +18,6 @@ At Qexa Labs, we empower businesses, professionals, and students to thrive in a 
 
 ## 🆕 Recent Repositories  
 
- **recent labs and projects** I’ve created:  
-
 | Repository | Description | Tech |
 |------------|-------------|------|
 | [MDE-Exfiltration-Hunt-Lab](https://github.com/qexa/MDE-Exfiltration-Hunt-Lab) | Simulated Microsoft Defender scenario for suspicious archiving & data exfiltration | PowerShell |
