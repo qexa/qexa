@@ -16,16 +16,49 @@ At Qexa Labs, we empower businesses, professionals, and students to thrive in a 
 
 ---
 
-## 🆕 Recent Repositories  
+### 🔍 Threat Hunting Labs  
+Hands-on detection and investigation scenarios built for Microsoft Defender XDR and KQL.  
 
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [MDE-Exfiltration-Hunt-Lab](https://github.com/qexa/MDE-Exfiltration-Hunt-Lab) | Simulated Microsoft Defender scenario for suspicious archiving & data exfiltration | PowerShell |
-| [T1053-Scheduled-Task-Detection-Lab](https://github.com/qexa/T1053-Scheduled-Task-Detection-Lab) | Detect malicious scheduled task usage for persistence & escalation | Python |
-| [usb-exfiltration-threat-hunt](https://github.com/qexa/usb-exfiltration-threat-hunt) | Insider USB exfiltration detection with templates & reports | PowerShell |
-| [Threat-Hunting-Scenario-Tor-Browser-Detection](https://github.com/qexa/Threat-Hunting-Scenario-Tor-Browser-Detection) | Detect & respond to Tor Browser usage in enterprise networks | KQL / Defender |
-| [azure-kali-offensive-lab](https://github.com/qexa/azure-kali-offensive-lab) | Offensive Kali lab running in Azure cloud | Bash / Azure |
-| [Bitcoin-Mining-Threat-Hunt-Lab](https://github.com/qexa/Bitcoin-Mining-Threat-Hunt-Lab) | Simulate & detect unauthorized Bitcoin/Monero cryptomining | KQL / PowerShell |
+- [**MDE-Exfiltration-Hunt-Lab**](https://github.com/qexa/MDE-Exfiltration-Hunt-Lab)  
+  *Simulated Microsoft Defender scenario for suspicious archiving & data exfiltration*  
+  **Tech:** PowerShell  
+
+- [**T1053-Scheduled-Task-Detection-Lab**](https://github.com/qexa/T1053-Scheduled-Task-Detection-Lab)  
+  *Detect malicious scheduled task usage for persistence & escalation*  
+  **Tech:** Python  
+
+- [**usb-exfiltration-threat-hunt**](https://github.com/qexa/usb-exfiltration-threat-hunt)  
+  *Insider USB exfiltration detection with templates & reports*  
+  **Tech:** PowerShell  
+
+---
+
+### 🌐 Network & Browser Security  
+Focused on monitoring encrypted traffic, anonymity tools, and unauthorized access.  
+
+- [**Threat-Hunting-Scenario-Tor-Browser-Detection**](https://github.com/qexa/Threat-Hunting-Scenario-Tor-Browser-Detection)  
+  *Detect & respond to Tor Browser usage in enterprise networks*  
+  **Tech:** KQL / Defender  
+
+---
+
+### ☁️ Cloud Security & Offensive Labs  
+Cloud-based attack simulations and red-team style environments.  
+
+- [**azure-kali-offensive-lab**](https://github.com/qexa/azure-kali-offensive-lab)  
+  *Offensive Kali lab running in Azure cloud for penetration testing & adversary emulation*  
+  **Tech:** Bash / Azure  
+
+---
+
+### 💻 Cryptomining & Resource Abuse  
+Labs simulating cryptojacking attacks and CPU/GPU resource misuse.  
+
+- [**Bitcoin-Mining-Threat-Hunt-Lab**](https://github.com/qexa/Bitcoin-Mining-Threat-Hunt-Lab)  
+  *Simulate & detect unauthorized Bitcoin/Monero cryptomining*  
+  **Tech:** KQL / PowerShell  
+
+---
 
 ---
 
