@@ -14,10 +14,14 @@ At Qexa Labs, we empower businesses, professionals, and students to thrive in a 
 
 ---
 
-## 📂 Repository Directory (Auto-Updated)
+## 📂 Most Recent Repositories
 
-> This section updates itself hourly and on manual dispatch.  
-> Add topics to your repos (e.g., `threat-hunting`, `honeypot`, `pisoc`, `automation`) to improve categorization later.
+> This list is refreshed **manually** via the “Update Repo List” action.
+
+<!-- REPO_TABLE_START -->
+Building repo list…
+<!-- REPO_TABLE_END -->
+
 
 <!-- REPO_TABLE_START -->
 Building repo list…
