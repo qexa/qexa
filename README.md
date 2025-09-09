@@ -28,7 +28,6 @@ At Qexa Labs, we empower businesses, professionals, and students to thrive in a 
 | [Threat-Hunting-Scenario-Tor-Browser-Detection](https://github.com/qexa/Threat-Hunting-Scenario-Tor-Browser-Detection) | Detect & respond to Tor Browser usage in enterprise networks | KQL / Defender |
 | [azure-kali-offensive-lab](https://github.com/qexa/azure-kali-offensive-lab) | Offensive Kali lab running in Azure cloud | Bash / Azure |
 | [Bitcoin-Mining-Threat-Hunt-Lab](https://github.com/qexa/Bitcoin-Mining-Threat-Hunt-Lab) | Simulate & detect unauthorized Bitcoin/Monero cryptomining | KQL / PowerShell |
-| [Qexa-Email-Assistant](https://github.com/qexa/Qexa-Email-Assistant) | AI-powered email automation assistant for productivity | Python |
 
 ---
 
