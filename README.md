@@ -14,27 +14,15 @@ At Qexa Labs, we empower businesses, professionals, and students to thrive in a 
 
 ---
 
-## 📂 Repository Directory
+## 📂 Repository Directory (Auto-Updated)
 
-Here’s a quick way to explore my public projects, grouped by theme:
+> This section updates itself hourly and on manual dispatch.  
+> Add topics to your repos (e.g., `threat-hunting`, `honeypot`, `pisoc`, `automation`) to improve categorization later.
 
-| Category                  | Repository Name                                   | Description                                                                                   | Tech Stack         |
-|---------------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------|
-| **Threat Hunting Labs**   | [Bitcoin-Mining-Threat-Hunt-Lab](https://github.com/qexa/Bitcoin-Mining-Threat-Hunt-Lab) | Simulates & detects unauthorized cryptomining in Defender XDR. Includes attacker simulation, KQL detections, and watchlists. | PowerShell |
-|                           | [MDE-Exfiltration-Hunt-Lab](https://github.com/qexa/MDE-Exfiltration-Hunt-Lab) | Simulated Microsoft Defender for Endpoint scenario: suspicious archiving & data exfiltration. | PowerShell |
-|                           | [T1053-Scheduled-Task-Detection-Lab](https://github.com/qexa/T1053-Scheduled-Task-Detection-Lab) | Detects malicious scheduled task usage for persistence and escalation. | Python |
-|                           | [usb-exfiltration-threat-hunt](https://github.com/qexa/usb-exfiltration-threat-hunt) | Insider USB exfiltration scenario with templates & reports. | PowerShell |
-|                           | [Threat-Hunting-Scenario-Tor-Browser-Detection](https://github.com/qexa/Threat-Hunting-Scenario-Tor-Browser-Detection) | Detects & responds to Tor Browser usage in enterprise environments. | KQL / Defender |
-| **Cloud Security & Honeypots** | [azure-kali-offensive-lab](https://github.com/qexa/azure-kali-offensive-lab) | Deploys Kali Linux on Azure via Terraform + Docker attack targets with safe teardown. | Terraform / HCL |
-|                           | [azure-tpot-honeypot](https://github.com/qexa/azure-tpot-honeypot) | Deploys T-Pot honeypot suite on Azure VMs with monitoring integration. | Shell |
-| **PiSOC Projects**        | [pisoc-dashboard](https://github.com/qexa/pisoc-dashboard) | Web-based management dashboard for Raspberry Pi SOC labs (SIEM, IDS, ELK). | Linux / Web |
-|                           | [PiSOC-MiniSOC](https://github.com/qexa/PiSOC-MiniSOC) | Hands-on Raspberry Pi Mini SOC for detection & honeypots. | Shell |
-| **AI & Automation**       | [YouTube-Automation-Tool](https://github.com/qexa/YouTube-Automation-Tool) | Automates YouTube uploads: titles, transcriptions, and descriptions. | Python |
-|                           | [youtube-auto](https://github.com/qexa/youtube-auto) | Lightweight toolkit for video automation & workflows. | Python |
-|                           | [Ai-Automation](https://github.com/qexa/Ai-Automation) | Beta collection of AI automation workflows & prototypes. | Mixed |
-|                           | [qexa-email-assistant](https://github.com/qexa/qexa-email-assistant) | AI-powered assistant for smarter email management. | Python |
+<!-- REPO_TABLE_START -->
+Building repo list…
+<!-- REPO_TABLE_END -->
 
----
 
 ## 🔑 Key Themes in My Work
 
