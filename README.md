@@ -3,7 +3,7 @@
 I’m **Alexander S. Curtis**, an **AI Automation Architect, Cybersecurity Threat Hunter, and IoT Strategist** based in Nashville, TN. With a passion for innovation and hands-on problem solving, I design intelligent systems that connect automation, security, and real-world impact.  
 
  **Mission**  
-At Qexa Labs, we empower businesses, professionals, and students to thrive in a connected world by delivering **AI-driven automation, cybersecurity solutions, and IoT strategies** that accelerate growth and strengthen resilience.  
+Empower businesses, professionals, and students to thrive in a connected world by delivering **AI-driven automation, cybersecurity solutions, and IoT strategies** that accelerate growth and strengthen resilience.  
 
 ---
 
