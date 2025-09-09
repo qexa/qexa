@@ -12,24 +12,6 @@ At Qexa Labs, we empower businesses, professionals, and students to thrive in a 
 [![Twitter](https://img.shields.io/badge/Twitter-@alexandercurtis-blue?logo=twitter)](https://x.com/alexandercurtis)
 [![YouTube](https://img.shields.io/badge/YouTube-@alexanderscurtis-red?logo=youtube)](https://www.youtube.com/@alexanderscurtis)
 
----
-
-## 📂 Most Recent Repositories
-
-> This list is refreshed **manually** via the “Update Repo List” action.
-
-<!-- REPO_TABLE_START -->
-Building repo list…
-<!-- REPO_TABLE_END -->
-
-
-<!-- REPO_TABLE_START -->
-Building repo list…
-<!-- REPO_TABLE_END -->
-
-
-## 🔑 Key Themes in My Work
-
 - 🔍 **Threat Hunting & SOC Labs** – Realistic detection & hunting scenarios with Defender XDR, KQL, and hands-on attacker simulation.  
 - ☁️ **Cloud Security & Honeypots** – Azure-based offensive labs & honeypot environments for red teaming and ethical research.  
 - 🖥️ **IoT & Raspberry Pi** – Affordable Raspberry Pi–based SOCs for training, detection, and monitoring.  
