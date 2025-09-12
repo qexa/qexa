@@ -1,6 +1,6 @@
 #  Welcome to Qexa Labs  
 
-I specialize in AI automation, wireless technology, mobile device management (MDM), and IoT security—helping organizations simplify operations, protect data, and prepare for the future. Beyond technology, I’m passionate about fitness, longevity, and performance, bringing the same discipline I apply as a triathlete and zone 2 training enthusiast into my work. My approach combines smart, secure systems with a focus on long-term resilience—both for businesses and for life.
+I specialize in AI automation, wireless technology, mobile device management (MDM), and IoT security, helping organizations simplify operations, protect data, and prepare for the future. Beyond technology, I’m passionate about fitness, longevity, and performance. My approach combines smart, secure systems with a focus on long-term resilience, both for businesses and for life.
 
  **Mission**  
 Empower businesses, professionals, and students to thrive in a connected world by delivering **AI-driven automation, cybersecurity solutions, and IoT strategies** that accelerate growth and strengthen resilience.  
