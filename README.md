@@ -1,6 +1,6 @@
 #  Welcome to Qexa Labs  
 
-I drive innovation at the intersection of AI Automation, Wireless, Mobile Device Management (MDM), and IoT Security. By leveraging AI-powered automation frameworks, I streamline device lifecycle management, secure mobile and IoT ecosystems, and enable organizations to scale with confidence. My expertise blends cybersecurity best practices with intelligent automation, delivering resilient, efficient, and future-ready technology environments.
+I work with AI automation, wireless technology, mobile device management (MDM), and IoT security. I use automation to make managing devices easier, keep networks and data safe, and help organizations run more smoothly. My goal is to create smart, secure systems that are simple to use and ready for the future.
 
  **Mission**  
 Empower businesses, professionals, and students to thrive in a connected world by delivering **AI-driven automation, cybersecurity solutions, and IoT strategies** that accelerate growth and strengthen resilience.  
