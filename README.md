@@ -66,7 +66,6 @@ Labs simulating cryptojacking attacks and CPU/GPU resource misuse.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qexa&color=blue)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qexa&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qexa&show_icons=true&theme=tokyonight)  
 
 ---
 
