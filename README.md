@@ -1,11 +1,3 @@
-#  Alexander Curtis  
-
-I specialize in AI automation, wireless technology, mobile device management (MDM), and IoT security, helping organizations simplify operations, protect data, and prepare for the future. Beyond technology, I’m passionate about fitness, longevity, and performance. My approach combines smart, secure systems with a focus on long-term resilience, both for businesses and for life.
-
- **Mission**  
-I empower businesses and professionals to thrive in a connected world by delivering AI-driven automation, cybersecurity solutions, and IoT strategies that fuel growth and strengthen security.  
-
----
 
 ## 🌐 Connect with Me  
 
