@@ -1,4 +1,4 @@
-## 🚨 AI Security & Governance (Flagship Project)
+## 🚨 AI Security & Governance 
 
 ### **AI Security Governance Framework**
 https://github.com/qexa/AI-Security-Governance-Framework  
