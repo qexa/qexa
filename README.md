@@ -15,7 +15,6 @@ This project demonstrates how to operationalize AI security using threat modelin
 
 ---
 
-## 🌐 Connect with Me  
 ## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-qexa.com-blue?logo=google-chrome)](https://qexa.com)
