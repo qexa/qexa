@@ -1,8 +1,13 @@
-## 🚨 AI Automation Workflows
+## 🌐 Connect with Me
+
+[![Website](https://img.shields.io/badge/Website-qexa.com-blue?logo=google-chrome)](https://qexa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20S.%20Curtis-blue?logo=linkedin)](https://www.linkedin.com/in/alexanderscurtis)
+[![Twitter](https://img.shields.io/badge/Twitter-@alexandercurtis-blue?logo=twitter)](https://x.com/alexandercurtis)
+[![YouTube](https://img.shields.io/badge/YouTube-@alexanderscurtis-red?logo=youtube)](https://www.youtube.com/@alexanderscurtis)
+
+---## 🚨 AI Automation Workflows
 
 Your AI loan assistant: answers every call, texts new leads in 60 seconds, books consults, chases documents, and updates borrowers at every milestone. 10 agents, 9 workflows, compliance-first. Built for mortgage loan officers. https://github.com/qexa/loan-officer-ai-workflows
-
-
 
 ## 🚨 AI Security & Governance 
 
@@ -18,16 +23,6 @@ This project demonstrates how to operationalize AI security using threat modelin
 • Adversarial testing and red-teaming  
 • Runtime hallucination and PII guardrails  
 • Audit-ready evidence generation  
-
----
-
-## 🌐 Connect with Me
-
-[![Website](https://img.shields.io/badge/Website-qexa.com-blue?logo=google-chrome)](https://qexa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20S.%20Curtis-blue?logo=linkedin)](https://www.linkedin.com/in/alexanderscurtis)
-[![Twitter](https://img.shields.io/badge/Twitter-@alexandercurtis-blue?logo=twitter)](https://x.com/alexandercurtis)
-[![YouTube](https://img.shields.io/badge/YouTube-@alexanderscurtis-red?logo=youtube)](https://www.youtube.com/@alexanderscurtis)
-
 
 ---
 
