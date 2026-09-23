@@ -1,6 +1,6 @@
 ## 🚨 AI Automation Workflows
 
-AI receptionist + back-office team for mortgage loan officers. Qualify leads, book consults, chase docs, update borrowers automatically. https://github.com/qexa/loan-officer-ai-workflows
+Your AI loan assistant: answers every call, texts new leads in 60 seconds, books consults, chases documents, and updates borrowers at every milestone. 10 agents, 9 workflows, compliance-first. Built for mortgage loan officers. https://github.com/qexa/loan-officer-ai-workflows
 
 
 
