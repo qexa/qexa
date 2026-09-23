@@ -1,3 +1,6 @@
+<img src="alex-curtis-github-banner.svg" width="100%" alt="Alex Curtis — AI Automation & Cybersecurity">
+
+
 ## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-qexa.com-blue?logo=google-chrome)](https://qexa.com)
