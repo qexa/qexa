@@ -1,3 +1,9 @@
+## 🚨 AI Automation Workflows
+
+AI receptionist + back-office team for mortgage loan officers. Qualify leads, book consults, chase docs, update borrowers automatically. https://github.com/qexa/loan-officer-ai-workflows
+
+
+
 ## 🚨 AI Security & Governance 
 
 ### **AI Security Governance Framework**
