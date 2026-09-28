@@ -8,6 +8,15 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@alexandercurtis-blue?logo=twitter)](https://x.com/alexandercurtis)
 [![YouTube](https://img.shields.io/badge/YouTube-@alexanderscurtis-red?logo=youtube)](https://www.youtube.com/@alexanderscurtis)
 
+## Task Routing and Automated Virtual Intelligence System
+T.R.A.V.I.S. Open-Source AI Chief of Staff Blueprint
+
+"You run the company. TRAVIS handles everything else."
+
+TRAVIS is an always-on AI executive assistant that answers every call on the first ring, screens and routes callers by priority, manages and protects an executive's calendar, sends a morning briefing, remembers what it's told, and follows up so nothing slips. This repository is a complete, free blueprint for building your own TRAVIS-style assistant from scratch.
+
+It is the open reference build behind the production service at travis.autoanswer.app, published by AutoAnswer.app / Qexa Technology. Fork it, rename him, give him your own voice.
+
 ---## 🚨 AI Automation Workflows
 
 Your AI loan assistant: answers every call, texts new leads in 60 seconds, books consults, chases documents, and updates borrowers at every milestone. 10 agents, 9 workflows, compliance-first. Built for mortgage loan officers. https://github.com/qexa/loan-officer-ai-workflows
